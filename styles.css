@@ -70,3 +70,17 @@ a {
     background: #eee;
     color: darkmagenta;
     }
+
+.logo {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 52px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+  }
+
+  
